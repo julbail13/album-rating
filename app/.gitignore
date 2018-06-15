@@ -1,0 +1,11 @@
+# dependency
+/node_modules
+
+/logs
+
+# Vim
+*.swp
+*.swo
+
+/dist
+/coverage

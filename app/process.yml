@@ -1,0 +1,7 @@
+apps:
+  # Album rater
+  - script: 'dist/server.js'
+    name: "album-rater-backend"
+    instances: 1
+    out_file: './logs/out.log'
+    error_file: './logs/error.log'
